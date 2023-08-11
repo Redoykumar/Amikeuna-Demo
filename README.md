@@ -9,7 +9,7 @@
 
 <h4 align="center"> Facebook Messenger Chatbot Platform <a href="https://trendsbird.com/" target="_blank">Trends Bird Limited</a>.</h4>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
     <img src="https://badge.fury.io/js/electron-markdownify.svg"
          alt="Gitter">
@@ -21,110 +21,64 @@
   <a href="https://www.paypal.me/AmitMerchant">
     <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
+  <!-- <a href="#download">Download</a> • -->
   <a href="#credits">Credits</a> •
   <a href="#related">Related</a> •
   <a href="#license">License</a>
 </p>
 
 <!-- ![screenshot](https://raw.githubusercontent.com/Redoykumar/Amikeuna-Demo/main/Images/chat.gif) -->
+<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Redoykumar/Amikeuna-Demo/main/Images/chat.gif" alt="screenshot">
 </div>
+
 ## Key Features
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+### Interactive Flow Designer
 
-## How To Use
+The interactive flow designer is a user-friendly visual interface that enables users to design intricate conversation flows for their chatbots. Users can drag and drop nodes to create branching paths, define user inputs, and specify responses at each step. This feature allows businesses to craft personalized and dynamic conversations that guide users through various scenarios.
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+### Automated Responses
 
-```bash
-# Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+Automated responses eliminate the need for manual intervention by providing instant replies to common user queries. Businesses can pre-define responses for frequently asked questions, greetings, and more. For instance, when a user asks about business hours, the chatbot can instantly provide accurate information, enhancing user satisfaction and saving time for both customers and businesses.
 
-# Go into the repository
-$ cd electron-markdownify
+### API Integration
 
-# Install dependencies
-$ npm install
+API integration empowers chatbots to fetch real-time information from external sources and present it to users within the conversation. For example, an e-commerce chatbot could use API integration to retrieve product details, prices, and availability directly from the business's database. This real-time functionality enhances user experience and provides up-to-date information.
 
-# Run the app
-$ npm start
-```
+### Multi-Page Support
 
-> **Note**
-> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+Amekeuna offers the convenience of managing multiple chatbots for various Facebook pages from a unified platform. Each page can have its own distinct chatbot with tailored flows and responses. This centralized management simplifies the process for businesses managing multiple pages and ensures consistent engagement across their online presence.
 
+### Analytics
 
-## Download
+The analytics feature provides insightful metrics on chatbot performance and user engagement. Metrics such as user interaction patterns, frequently asked questions, and conversation lengths offer valuable insights. Visual representations like graphs and charts aid users in understanding how their chatbots are performing and guide improvements for better user experience.
 
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
+### Customization
 
-## Emailware
+Customization empowers users to align the chatbot's appearance and personality with their brand identity. Users can select avatars, customize color schemes, and define the chatbot's tone and style of communication. This ensures that the chatbot resonates with the brand's image while providing a personalized interaction experience.
 
-Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
+### Easy Setup
 
-## Credits
+The straightforward setup process ensures that users can deploy chatbots quickly with minimal configuration. The intuitive interface guides users through connecting their Facebook page, designing flows, and setting up responses. This simplicity lowers the entry barrier, making the platform accessible to users with varying levels of technical expertise.
 
-This software uses the following open source packages:
+## Documentation
 
-- [Electron](http://electron.atom.io/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
+For detailed information on setting up chatbots, designing flows, integrating APIs, and using the analytics dashboard, refer to our [Amekeuna Documentation](link-to-your-documentation).
 
-## Related
+## Contributing
 
-[markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify
+We welcome contributions from the community! If you'd like to contribute, please review our [Contribution Guidelines](link-to-contribution-guidelines).
 
-## Support
-
-<a href="https://www.buymeacoffee.com/5Zn8Xh3l9" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-<p>Or</p> 
-
-<a href="https://www.patreon.com/amitmerchant">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
-## You may also like...
-
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
+If you encounter any issues or have suggestions, please [report them here](link-to-issue-tracker).
 
 ## License
 
-MIT
-
----
-
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
-
+This project is licensed under the [MIT License](LICENSE).

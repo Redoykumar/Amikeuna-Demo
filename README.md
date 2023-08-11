@@ -1,13 +1,13 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://amikeuna.com/demo1/media/logos/logo-1.svg" alt="Markdownify" width="200"></a>
+  <a href="https://amikeuna.com/"><img src="https://amikeuna.com/demo1/media/logos/logo-1.svg" alt="Markdownify" width="200"></a>
   <br>
   Amikeuna
   <br>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center"> Facebook Messenger Chatbot Platform <a href="https://trendsbird.com/" target="_blank">Trends Bird Limited</a>.</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">

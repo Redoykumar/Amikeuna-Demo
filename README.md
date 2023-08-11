@@ -32,10 +32,10 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/Redoykumar/Amikeuna-Demo/main/Images/chat.gif)
+<!-- ![screenshot](https://raw.githubusercontent.com/Redoykumar/Amikeuna-Demo/main/Images/chat.gif) -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Redoykumar/Amikeuna-Demo/main/Images/chhat.gif" alt="screenshot">
+  <img src="https://raw.githubusercontent.com/Redoykumar/Amikeuna-Demo/main/Images/chat.gif" alt="screenshot">
 </div>
 ## Key Features
 

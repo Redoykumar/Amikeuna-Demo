@@ -32,10 +32,11 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/Redoykumar/Amikeuna-Demo/main/Images/Media_230811_163030.gif)
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/Redoykumar/Amikeuna-Demo/main/Images/Media_230811_163030.gif" alt="screenshot">
-</div> -->
+![screenshot](https://raw.githubusercontent.com/Redoykumar/Amikeuna-Demo/main/Images/chat.gif)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Redoykumar/Amikeuna-Demo/main/Images/chhat.gif" alt="screenshot">
+</div>
 ## Key Features
 
 * LivePreview - Make changes, See changes

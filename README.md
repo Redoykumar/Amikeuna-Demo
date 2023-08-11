@@ -6,6 +6,15 @@
   Amikeuna
   <br>
 </h1>
+<div align="center">
+  <a href="https://amikeuna.com/" class="button">
+    Visit Application
+  </a>
+  <a href="https://www.facebook.com/Redoykumardas0" class="button">
+    Live Chat 
+  </a>
+</div>
+
 
 <h4 align="center"> Facebook Messenger Chatbot Platform <a href="https://trendsbird.com/" target="_blank">Trends Bird Limited</a>.</h4>
 
@@ -25,10 +34,10 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
+  <a href="#contributors">Contributors</a> •
   <!-- <a href="#download">Download</a> • -->
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
+  <a href="#documentation">Documentation</a> •
+  <!-- <a href="#related">Related</a> • -->
   <a href="#license">License</a>
 </p>
 
@@ -73,12 +82,31 @@ The straightforward setup process ensures that users can deploy chatbots quickly
 
 For detailed information on setting up chatbots, designing flows, integrating APIs, and using the analytics dashboard, refer to our [Amekeuna Documentation](link-to-your-documentation).
 
-## Contributing
+## Contributors
 
-We welcome contributions from the community! If you'd like to contribute, please review our [Contribution Guidelines](link-to-contribution-guidelines).
-
-If you encounter any issues or have suggestions, please [report them here](link-to-issue-tracker).
+- [Redoy Kumar Das](https://github.com/Redoykumar) - Software Engineer
+- [Sabbir Hossin Rajib](https://github.com/SabbirHR) - Associate Software Engineer
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+<style>
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+
+  .button:hover {
+    background-color: #45a049;
+  }
+</style>
